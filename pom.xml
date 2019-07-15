@@ -11,7 +11,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<swagger.version>2.9.2</swagger.version>
-		<jetty.version>9.2.3.v20140905</jetty.version>
+		<jetty.version>9.2.28.v20190418</jetty.version>
 		<jersey.version>2.7</jersey.version>
 		<jaxrs.version>2.2.3</jaxrs.version>
 		<lombok.version>1.18.6</lombok.version>
